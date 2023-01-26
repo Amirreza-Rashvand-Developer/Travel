@@ -2,8 +2,6 @@
 
 ![viewfinal](https://raw.githubusercontent.com/Amirreza-Rashvand-Developer/Travel/main/preview.jpg)
 
-- [Demo Project](https://amirreza-rashvand-developer.github.io/StartUp/)
-
 - Developed by amirreza rashvand
 
 - Created - 2023
