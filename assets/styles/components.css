@@ -1,0 +1,16 @@
+.app-sub__title {
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 1.7rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.app-title {
+    font-family: "Volkhov-Bold";
+    color: var(--primary-color);
+    font-size: 4rem;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 2rem;
+}
